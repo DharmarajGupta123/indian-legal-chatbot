@@ -6,7 +6,7 @@
 
 This repository contains the full source code for **Nyaya Sahayak**, a professional-grade legal assistant designed to simplify complex Indian statutes. [cite_start]It provides citizens with instant awareness of the **Bharatiya Nyaya Sanhita (BNS) 2023** and the **Consumer Protection Act 2019**[cite: 8, 12, 115].
 
-View your app in AI Studio: https://ai.studio/apps/drive/1_ULnvzqBTfaur3jbSLnRzD8P7oHUtD_p
+
 
 ## Run Locally
 
