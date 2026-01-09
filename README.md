@@ -1,6 +1,6 @@
-<div align="center">
-<img width="1200" height="600" alt="NyayaSahayakBanner" src="https://text-to-image.googleusercontent.com/image_generation_content/0" />
-</div>
+ <img width="1456" height="720" alt="image" src="https://github.com/user-attachments/assets/d7074903-35a3-49a1-aac6-1299da0c4190" /><div align="center"> 
+<!--<img width="1200" height="600" alt="NyayaSahayakBanner" src="[WhatsApp Image 2026-01-09 at 22 01 23 (1)](https://github.com/user-attachments/assets/6ed36724-6136-4f0b-aad5-89fc2af68fd7) />-->
+ </div> 
 
 # Nyaya Sahayak: AI Legal Awareness Assistant
 
